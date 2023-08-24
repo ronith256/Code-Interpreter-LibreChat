@@ -14,10 +14,13 @@ This is a simple plug-in for LibreChat which allows to mimic some functions of t
 - Clone the repo
 - Copy the files according to the folder structure. 
     - Add an icon to assets folder named code.png. (not included) 
-- Now rebuild the project 
-
+- Now rebuild the project
 ```
 npm run frontend 
+```
+- Run the Python Server
+```
+python3 server.py 
 ```
 
 # Security
